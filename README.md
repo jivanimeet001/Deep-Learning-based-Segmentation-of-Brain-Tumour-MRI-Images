@@ -1,8 +1,5 @@
 # 🧠 Deep Learning-based Segmentation of Brain Tumour MRI Images 🖥️
 
-**Affiliation:**
-School of Engineering, University Of Guelph, Guelph, Canada
-
 ---
 
 ### Summary:
@@ -31,9 +28,6 @@ This repository presents a cutting-edge deep learning-based method for automatic
 
 **Contributing:**
 Contributions are welcome! Feel free to submit pull requests or open issues for any suggestions, improvements, or bug fixes.
-
-**License:**
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
